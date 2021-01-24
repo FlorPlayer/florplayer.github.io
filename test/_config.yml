@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Flor
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  An extension and skin for video.js 7
 
 
 ## => Language and Timezone
