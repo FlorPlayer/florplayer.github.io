@@ -28,7 +28,7 @@ key: page-about
 
 ![Flor HTML5 Video Player ](https://s3.envato.com/files/293604283/preview/2.png)
 
-TeXt is a HTML5 Video Player.
+Flor is a HTML5 Video Player.
 
 
 ## Features
@@ -51,5 +51,5 @@ We has 2 built-in skins, you can also set up your own skin.
 | ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
 
 ### Other Skins
-- Skin for VideoJS: Soccer, Fuzzy, AIR, Flat, Tube
-- Skins for JWPlayer: AIR, Flat, Tube, Thin
+- Skin for VideoJS: [Soccer](https://codecanyon.net/item/soccer-skin-for-videojs/25296862), [Fuzzy](https://codecanyon.net/item/fuzzy-skin-retina-for-videojs/25162597), [AIR](https://codecanyon.net/item/air-skin-retina-for-videojs/22886702), [Flat](https://codecanyon.net/item/flat-skin-retina-for-videojs/14291168), [Tube](https://codecanyon.net/item/tube-skin-retina-for-videojs/17661814)
+- Skins for JWPlayer: [AIR](https://codecanyon.net/item/air-skin-for-jw6/15106240), [Flat](https://codecanyon.net/item/flat-skin-retina-for-jw-player/12752001), [Tube](https://codecanyon.net/item/tube-skin-retina-for-jw7/18213167), [Thin](https://codecanyon.net/item/thin-skin-retina-for-jw-player/13834750)
