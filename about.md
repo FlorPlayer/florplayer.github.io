@@ -26,49 +26,30 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+![Flor HTML5 Video Player ](https://s3.envato.com/files/293604283/preview/2.png)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+TeXt is a HTML5 Video Player.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
 
 ## Features
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+- **An extension and skin for video.js 7**
+- Video.js that is open source HTML5 & Flash video player, as well as YouTube and Vimeo (through plugins), used on over 400,000 websites
+- Item included [Tube Style](https://codecanyon.net/item/tube-skin-retina-for-videojs/17661814) and [Fuzzy Skin](https://codecanyon.net/item/fuzzy-skin-retina-for-videojs/25162597)
+- Retina Ready & Fully Responsive
+- HTML5 & CSS3
+- Support and updates
+- Wishlist Support
+- Well Documented
 
 ## Skins
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+We has 2 built-in skins, you can also set up your own skin.
 
-| `default` | `dark` | `forest` |
+| `default Tube` | `Fuzzy` | `Air` |
 | --- |  --- | --- |
 | ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+### Other Skins
+- Skin for VideoJS: Soccer, Fuzzy, AIR, Flat, Tube
+- Skins for JWPlayer: AIR, Flat, Tube, Thin
